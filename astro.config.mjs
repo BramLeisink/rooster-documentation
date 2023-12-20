@@ -9,7 +9,7 @@ export default defineConfig({
 		starlight({
 			title: 'Rooster 🐓',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				github: 'https://github.com/BramLeisink/rooster-documentation',
 			},
 			sidebar: [
 				{
