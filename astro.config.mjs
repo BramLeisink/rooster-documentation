@@ -3,6 +3,8 @@ import starlight from '@astrojs/starlight';
 
 // https://astro.build/config
 export default defineConfig({
+	site: 'https://bramleisink.github.io',
+	base: '/rooster-documentation',
 	integrations: [
 		starlight({
 			title: 'Rooster 🐓',
