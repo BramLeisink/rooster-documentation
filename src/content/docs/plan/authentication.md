@@ -1,6 +1,6 @@
 ---
-title: Auth
-description: Een omschrijving van de Rooster-leeromgeving
+title: Authentication
+description: De opties voor de authenticatie op Rooster
 ---
 
 Een schets voor het aanmelden, verifiëren en inloggen van gebruikers, op Rooster-ELO. Sommige van deze principes blijven gelden voor andere onderdelen zoals Rooster-Learn, maar hiervoor kan iedereen zich inschrijven. 
