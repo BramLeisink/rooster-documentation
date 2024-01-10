@@ -12,4 +12,6 @@ description: Extensies zijn extra functies die je kan downloaden die de ervaring
 
 ## Hoe maak ik zelf een extensie?
 
+Een extensie maken doe je via de [Rooster API]() met de codeertaal Svelte.
+
 
